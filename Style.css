@@ -1,0 +1,17 @@
+body {
+
+margin: 0em;
+}
+.cover {
+	height: 400px;
+	background-image:url(file:///F:/Laboratorio%20de%20Aplicaciones/Pagina%20Web/jpg%20para%20web/rsz_karl-fredrickson-tyizeciz_60-unsplash.jpg);
+	color:white;
+	background-size: cover;
+	background-position: center;
+	background-color: rgba(0,0,0,0.5);
+	background-blen-mode:darken;
+}
+.card {
+	border:0 !important;
+	box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1), 0 2px 4px -1px rgba(0,0,0,0.06);
+}
